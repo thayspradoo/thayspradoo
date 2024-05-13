@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://profile-counter.glitch.me/thayspradoo/count.svg?"  />
+</div>
 
-<!--
-**thayspradoo/thayspradoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Hi, Cybers! 🖐️👾</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">I'm a dentist by training, but I'm passionate about computers!<br>🌱Currently studying HTML, CSS and JavaScript.<br>Looking for a job opportunity! My dream is to work as a Front-End</p>
+
+###
